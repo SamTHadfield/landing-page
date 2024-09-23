@@ -11,9 +11,7 @@ body {
   flex-direction: column;
 }
 
-header,
-hero-section-1,
-footer {
+.hero {
   background-color: #1f2937;
 }
 
@@ -26,6 +24,14 @@ header {
 
 .logo-text {
   font-size: 24px;
+}
+
+.hero-main-text {
+  font-size: 48px;
+}
+
+.logo-text,
+.hero-main-text {
   color: #f9faf8;
 }
 
@@ -35,8 +41,32 @@ header {
   list-style-type: none;
 }
 
-.hero-secondary-text,
-.header-link-text {
+.header-link-text,
+.hero-secondary-text {
   font-size: 18px;
   color: #e5e7eb;
+}
+
+.section-1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 50px;
+  padding: 70px;
+}
+
+.hero-content {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  max-width: 450px;
+}
+
+button {
+  background-color: #3882f6;
+  color: #f9faf8;
+  padding: 8px;
+  border-radius: 8px;
+  border-style: none;
+  max-width: 100px;
 }
