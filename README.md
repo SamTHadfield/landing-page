@@ -10,3 +10,5 @@ US Dollar image by FilipFilipovic
 
 FED Image by Markus Winkler
 @ Pexels.com
+
+Gold Bars image by Pixabay
