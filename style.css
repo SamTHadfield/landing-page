@@ -136,3 +136,11 @@ button {
   justify-content: right;
   font-weight: bold;
 }
+
+/* section-4 below */
+
+.section-4 {
+  display: flex;
+  justify-content: center;
+  padding: 100px;
+}
