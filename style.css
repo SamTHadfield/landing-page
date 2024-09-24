@@ -148,10 +148,13 @@ button {
 .section-4-content {
   display: flex;
   justify-content: space-around;
+  align-items: center;
   background-color: #3882f6;
   color: white;
-  padding: 20px 200px;
+  height: 100px;
+  width: 900px;
   border-radius: 8px;
+  padding: 20px;
 }
 
 .section-4-content > button {
