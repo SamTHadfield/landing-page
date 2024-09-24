@@ -148,4 +148,8 @@ button {
 .section-4-content {
   display: flex;
   flex-direction: column;
+  background-color: #3882f6;
+  color: white;
+  padding: 20px 200px;
+  border-radius: 8px;
 }
