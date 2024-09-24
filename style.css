@@ -144,3 +144,8 @@ button {
   justify-content: center;
   padding: 100px;
 }
+
+.section-4-content {
+  display: flex;
+  flex-direction: column;
+}
